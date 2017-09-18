@@ -1,0 +1,35 @@
+/* CSS Document */
+<style type = "text/css" >
+<!--
+.pop {font-size: 22px; color: #7F3FFF}
+.pop {font-size: 22px; color: #7FBFFF}
+#none 
+{
+background: bottom #557FFF;
+padding:1em;
+}
+
+.SK {font-size:24px; color:#FF0000}
+.album {font-size:45px; color:#FF0000}
+.song {font-size:45px; color: #7F0055}
+.name{font-size:20px; color:black}
+#Rise
+{background:bottom  #FFFF00;
+padding:1em;
+}
+.image {
+text-align: center;
+}
+#list
+{
+background:bottom #C0C0C0;
+padding:1em;
+}
+#hed
+{
+background:bottom orange;
+padding:1em;
+}
+}
+-->
+</style>
