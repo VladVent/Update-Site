@@ -1,18 +1,12 @@
 /* CSS Document */
 <style type = "text/css" >
 <!--
-.pop {font-size: 22px; color: #7F3FFF}
-.pop {font-size: 22px; color: #7FBFFF}
-#none 
-{
-background: bottom #557FFF;
-padding:1em;
-}
-
 .SK {font-size:24px; color:#FF0000}
 .album {font-size:45px; color:#FF0000}
 .song {font-size:45px; color: #7F0055}
-.name{font-size:20px; color:black}
+.name{font-size:20px; color:black;}
+.Tital{font-size:30px; color: white;}
+.new{font-size: 50px; color: #9E392E;}
 #Rise
 {background:bottom  #FFFF00;
 padding:1em;
@@ -20,10 +14,26 @@ padding:1em;
 .image {
 text-align: center;
 }
+#none 
+{
+background: bottom #DBEBE3;
+padding:1em;
+}
+#body
+{
+background-image: url(Rise.png);
+padding:27em;
+}
 #list
 {
 background:bottom #C0C0C0;
 padding:1em;
+}
+#button
+{
+background: bottom white;
+padding: 1em;
+
 }
 #hed
 {
